@@ -1,2 +1,1 @@
-# my_memory_card
-v 1.0
+Запустить: dist/my_memory_cards
